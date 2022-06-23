@@ -1,17 +1,16 @@
 <%--
   Created by IntelliJ IDEA.
   User: hp
-  Date: 26/05/2022
-  Time: 11:37
+  Date: 01/06/2022
+  Time: 09:49
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
+<head>
     <title>Title</title>
-  </head>
-  <a href="${pageContext.request.contextPath}/hello">Click here.....</a>
-  <body>
-
-  </body>
+</head>
+<body>
+    <a href="addStudent">Add student</a>
+</body>
 </html>
